@@ -36,6 +36,7 @@ import (
 	"fmt"
 	"strings"
 	"time"
+	"clears"
 
 	"github.com/bradfitz/gomemcache/memcache"
 
